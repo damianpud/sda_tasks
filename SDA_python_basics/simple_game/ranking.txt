@@ -1,0 +1,1 @@
+[{"Krzysiek": 6, "Damian": 1, "Wiola": 8, "Adam": 3, "Kasia": 4, "Paula": 7, "Piotrek": 3, "Tomek": 3, "Monika": 4}, {"Krzysiek": 6, "Damian": 1, "Marek": 9, "Wiola": 7, "Kasia": 4, "Tomek": 9, "Wiesiek": 5, "Jadzia": 2, "Adam": 3, "Magda": 7}, {"Krzysiek": 6, "Damian": 1, "Marek": 9, "Wiola": 7, "Kasia": 4, "Tomek": 9, "Wiesiek": 5, "Jadzia": 2, "Adam": 3, "Marta": 10}]
