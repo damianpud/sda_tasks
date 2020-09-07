@@ -1,1 +1,0 @@
-{"book0": {}, "book1": {"name": "Bieguni", "isbn": 70598871451125, "autor": {"name": "Olga", "surrname": "Tokarczuk"}}, "book2": {"name": "AnnaKarenina", "isbn": 38233392698644, "autor": {"name": "Lew", "surrname": "Tolstoj"}}, "book3": {"name": "ArchipelagGulag", "isbn": 58985391433888, "autor": {"name": "Aleksander", "surrname": "Solzenicyn"}}}
